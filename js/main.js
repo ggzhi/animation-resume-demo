@@ -1,5 +1,5 @@
 var css1 = `/* 
- * 面试官你好，我是XXX
+ * 面试官你好，我是黄广志
  * 只用文字作做我介绍太单调了
  * 我就用代码来介绍吧
  * 首先准备一些样式
@@ -52,29 +52,33 @@ var css2 = `
 
 `
 var md = `
-# 自我介绍
+黄广志
+----
+求职意向：Java开发工程师
 
-我叫 XXX
-1990 年 1 月出生
-XXX 学校毕业
-自学前端半年
-希望应聘前端开发岗位
+技能
+----
 
-# 技能介绍
+* 熟悉掌握JAVA基础知识，熟悉面向对象思想，有良好的编码习惯
+* 熟悉SpringMVC工作流程，会使用SSM,Springboot等框架
+* 熟悉Maven开发以及Tomcat下的项目部署
+* 熟悉redis，利用redis做缓存
+* 熟悉Mysql的使用，熟悉对数据库基本操作
+* 熟悉Linux操作系统的基本命令使用
+* 了解，实施过分布式项目，单点登录，SpringCloud框架 
 
-熟悉 JavaScript CSS
+项目经历
+----
 
-# 项目介绍
+### 1.[P2P网贷系统](http://182.92.241.99:8080/website/login.html)
+### 2.商城项目: 面向大众的一款电商购物网站
+### 3.[个人博客](http://hgzhi.cn/)
 
-1. XXX 轮播
-2. XXX 简历
-3. XXX 画板
+链接
+----
 
-# 联系方式
-
-- QQ xxxxxxxx
-- Email xxxxxxxx
-- 手机 xxxxxxx
+### 1.[GitHub](https://github.com/ggzhi)
+### 2.[个人博客](http://hgzhi.cn/)
 `
 let css3 = `
 /*
